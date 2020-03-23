@@ -1,0 +1,9 @@
+INSERT INTO public.resumes_technologies (resumes__fk, technologies__fk) VALUES (2, 1);
+INSERT INTO public.resumes_technologies (resumes__fk, technologies__fk) VALUES (2, 2);
+INSERT INTO public.resumes_technologies (resumes__fk, technologies__fk) VALUES (2, 3);
+INSERT INTO public.resumes_technologies (resumes__fk, technologies__fk) VALUES (3, 1);
+INSERT INTO public.resumes_technologies (resumes__fk, technologies__fk) VALUES (3, 4);
+INSERT INTO public.resumes_technologies (resumes__fk, technologies__fk) VALUES (3, 5);
+INSERT INTO public.resumes_technologies (resumes__fk, technologies__fk) VALUES (4, 6);
+INSERT INTO public.resumes_technologies (resumes__fk, technologies__fk) VALUES (4, 7);
+INSERT INTO public.resumes_technologies (resumes__fk, technologies__fk) VALUES (4, 8);
